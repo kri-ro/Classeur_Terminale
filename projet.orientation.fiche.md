@@ -3,9 +3,17 @@
 ## Projet d'orientation :École d'ingenieur,Prépa scentifique (MPSI,PCSI)
 # 1)Ecole d'ingenieur:
  
- Insa(Toulouse,Rennes,Lyon,)
+ Insa(Toulouse,Rennes,Lyon,):
+ Portes ouvertes :
+ Insa Lyon(31 janvier 2026 présentation en ligne)
+ Insa Toulouse(14 février 2026 et 21 janvier en ligne)
+ Insa Rennes(7 février 2026)
  
- UT(UTC,UTT,UTBM)
+ UT(UTC,UTT,UTBM):
+ Portes ouvertes:
+ UTC(17 janvier 2026 et 28 février en ligne)
+ UTT(7 mars 2026 et 28 février 2026 en ligne)
+ UTBM(18 janvier 2026)
 
 # 2)Prépa scientifiques CPGE:
 ## Prépa(MPSI)
