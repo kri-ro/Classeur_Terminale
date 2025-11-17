@@ -1,6 +1,6 @@
 ## Sviatoslav Kirsanov
 ## TG1
-## Projet d'orientation :École d'ingenieur,Prépa scentifique MPSI,PCSI
+## Projet d'orientation :École d'ingenieur,Prépa scentifique (MPSI,PCSI)
 # 1)Ecole d'ingenieur:
 ### Insa(Toulouse,Rennes,Lyon,)
 ### UT(UTC,UTT,UTBM)
@@ -17,7 +17,7 @@
 ### Lycée Saint-Louis (6ème) (Paris 6e Arrondissement - 75)(moyenne g 17 = plus de 50%)
 ### Lycée Buffon (Paris 15e Arrondissement - 75)(moyenne g 17 = plus de 50 %)
 
-## Prepa scentifique PCSI:
+## Prépa(PCSI):
 ### À peu près les mêmes établissments
 ### Lycée Pierre De Fermat (Toulouse - 31)
 ### Lycée Henri Poincaré (Nancy - 54)
