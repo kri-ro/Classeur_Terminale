@@ -2,7 +2,7 @@
 ## TG1
 ## Projet d'orientation :École d'ingenieur,Prépa scentifique (MPSI,PCSI)
 # 1)Ecole d'ingenieur:
-### Insa(Toulouse,Rennes,Lyon,)
+ Insa(Toulouse,Rennes,Lyon,)
 ### UT(UTC,UTT,UTBM)
 # 2)Prépa scientifiques CPGE:
 ## Prépa(MPSI)
