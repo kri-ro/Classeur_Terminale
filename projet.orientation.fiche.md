@@ -1,23 +1,23 @@
 ## Sviatoslav Kirsanov
 ## TG1
 ## Projet d'orientation :École d'ingenieur,Prépa scentifique MPSI,PCSI
-# 1)Ecoles d'ingenieur:
-### Insa(Toulouse,Rennes,Lyon)
-### UT((UTC,UTT,UTBM)
-# 2)Prépa scientifiques CPGE
-### Prépa(MPSI)
-### Lycée Louis Pasteur (Neuilly-sur-Seine - 92)(moyenne g 17 = regulairement,moyenne g 18 = plus de 50%)
+# 1)Ecole d'ingenieur:
+### Insa(Toulouse,Rennes,Lyon,)
+### UT(UTC,UTT,UTBM)
+# 2)Prépa scientifiques CPGE:
+## Prépa(MPSI)
+### Lycée Louis Pasteur (Neuilly-sur-Seine - 92)(moyenne g 17 = regulièrement,moyenne g 18 = plus de 50%)
 ### Lycée Francois René De Chateaubriand(17 moyenne g = plus de 50%,18 moyenne g = plus de 80%)
 ### Lycée Marcelin Berthelot (17 moyenne g = plus de 50%,18 moyenne g = plus de 80%)(Saint-Maur-des-Fossés - 94)
 ### Lycée Fénelon (Paris 6e Arrondissement - 75) 
 ### Lycée Charlemagne (Paris 4e Arrondissement - 75)(moyenne g 17 = plus de 50 %)
-### Lycée Faidherbe (Lille - 59)(moyenne g 18 = regulairement)
+### Lycée Faidherbe (Lille - 59)(moyenne g 18 = regulièrement)
 ### Lycée Descartes (Tours - 37) (moyenne g 17 = plus de 50%)
 ### Lycée La Pérouse - Kerichen (Brest - 29)(moyenne g 17 =  plus de 80%)
-### Lycée Saint-Louis (6ème) (Paris 6e Arrondissement - 75)
-### Lycée Buffon (Paris 15e Arrondissement - 75)
+### Lycée Saint-Louis (6ème) (Paris 6e Arrondissement - 75)(moyenne g 17 = plus de 50%)
+### Lycée Buffon (Paris 15e Arrondissement - 75)(moyenne g 17 = plus de 50 %)
 
-# Prepa scentifique PCSI:
+## Prepa scentifique PCSI:
 ### À peu près les mêmes établissments
 ### Lycée Pierre De Fermat (Toulouse - 31)
 ### Lycée Henri Poincaré (Nancy - 54)
