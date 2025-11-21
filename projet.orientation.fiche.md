@@ -17,26 +17,26 @@
 
 # 2)Prépa scientifiques CPGE:
 ## Prépa(MPSI)
- Lycée Louis Pasteur (Neuilly-sur-Seine - 92)(moyenne g 17 = regulièrement,
- moyenne g 18 = plus de 50%)
+ Lycée Louis Pasteur (Neuilly-sur-Seine - 92)(Moyenne Générale 17 = regulièrement,
+ Moyenne Générale 18 = plus de 50%)
  
- Lycée Francois René De Chateaubriand(17 moyenne g = plus de 50%,18 moyenne g = plus de 80%)
+ Lycée Francois René De Chateaubriand(Moyenne Générale 17 = plus de 50%, Moyenne Générale 18 = plus de 80%)
  
- Lycée Marcelin Berthelot (17 moyenne g = plus de 50%,18 moyenne g = plus de 80%)(Saint-Maur-des-Fossés - 94)
+ Lycée Marcelin Berthelot ( Moyenne Générale 17 = plus de 50%, Moyenne Génerale 18 = plus de 80%)(Saint-Maur-des-Fossés - 94)
  
- Lycée Fénelon (Paris 6e Arrondissement - 75) 
+ Lycée Fénelon (Paris 6e Arrondissement - 75) (Moyenne Générale 17 = plus de 50% , Moyenne Générale 18 = plus de 80%)
  
- Lycée Charlemagne (Paris 4e Arrondissement - 75)(moyenne g 17 = plus de 50 %)
+ Lycée Charlemagne (Paris 4e Arrondissement - 75)(Moyenne Générale 17 = plus de 50 %)
  
- Lycée Faidherbe (Lille - 59)(moyenne g 18 = regulièrement)
+ Lycée Faidherbe (Lille - 59)(Moyenne Génerale 18 = regulièrement)
  
- Lycée Descartes (Tours - 37) (moyenne g 17 = plus de 50%)
+ Lycée Descartes (Tours - 37) (Moyenne Générale 17 = plus de 50%)
  
- Lycée La Pérouse - Kerichen (Brest - 29)(moyenne g 17 =  plus de 80%)
+ Lycée La Pérouse - Kerichen (Brest - 29)( Moyenne Générale 17 =  plus de 80%)
  
- Lycée Saint-Louis (6ème) (Paris 6e Arrondissement - 75)(moyenne g 17 = plus de 50%)
+ Lycée Saint-Louis (6ème) (Paris 6e Arrondissement - 75)(Moyenne Générale 17 = plus de 50%)
  
- Lycée Buffon (Paris 15e Arrondissement - 75)(moyenne g 17 = plus de 50 %)
+ Lycée Buffon (Paris 15e Arrondissement - 75)(Moyenne Générale 17 = plus de 50 %)
 
 ## Prépa(PCSI):
 
