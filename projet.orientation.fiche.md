@@ -17,8 +17,8 @@
 
 # 2)Prépa scientifiques CPGE:
 ## Prépa(MPSI)
- Lycée Louis Pasteur (Neuilly-sur-Seine - 92)(Moyenne Générale 17 = regulièrement,
- Moyenne Générale 18 = plus de 50%)
+ Lycée Janson le Sailly (Paris)(Moyenne Générale 17 = plus de 50%,
+ Moyenne Générale 18 = plus de 80%
  
  Lycée Francois René De Chateaubriand(Moyenne Générale 17 = plus de 50%, Moyenne Générale 18 = plus de 80%)
  
