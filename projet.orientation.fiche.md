@@ -57,3 +57,9 @@
  Université Paris- Est-Créteil Val de Marne - UPEC (Paris 12) (94)Double licence - Mathématiques / Physique - Mathématiques et Physique
 
  Université Paris-Dauphine (Paris 16e Arrondissement - 75)Formation valant grade de licence - Mathématique - Informatique - Paris - Classique
+
+ # BUT Génie Mécanique et Productique
+ IUT de Brest
+ IUT de Rennes
+
+ # BUT Electrique
