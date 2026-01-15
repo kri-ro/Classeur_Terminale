@@ -62,4 +62,4 @@
  IUT de Brest
  IUT de Rennes
 
- # BUT Electrique
+ # BUT ou BTS en génie mécanique, mesures physiques, informatique
